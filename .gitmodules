@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RMallow"]
 	path = RMallow
-	url = https://github.com/cran/RMallow
+	url = https://github.com/e-gregory/rmallow
